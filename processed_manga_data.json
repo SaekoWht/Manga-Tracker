@@ -1,0 +1,3626 @@
+{
+  "metadata": {
+    "total_entries": 171,
+    "export_date": "2025-09-18T22:34:55.180135",
+    "source_file": "comick-mylist-2025-09-18.csv"
+  },
+  "statistics": {
+    "total_manga": 171,
+    "total_chapters_read": 13394,
+    "average_chapters_per_manga": 78.3,
+    "reading_categories": {
+      "Just Started": 43,
+      "Well Advanced": 42,
+      "Early Chapters": 38,
+      "Mid Progress": 34,
+      "Long Reader": 14
+    },
+    "external_links": {
+      "mal_count": 105,
+      "anilist_count": 131,
+      "mangaupdates_count": 138
+    },
+    "most_read_manga": [
+      {
+        "title": "The Devil Butler",
+        "chapters_read": 753
+      },
+      {
+        "title": "The Ultimate of All Ages",
+        "chapters_read": 456
+      },
+      {
+        "title": "All Hail the Sect Leader",
+        "chapters_read": 444
+      },
+      {
+        "title": "I Am the Fated Villain",
+        "chapters_read": 277
+      },
+      {
+        "title": "Mercenary Enrollment",
+        "chapters_read": 254
+      }
+    ],
+    "recently_read": [
+      {
+        "title": "Log-in Murim",
+        "last_read_formatted": "July 31, 2025",
+        "chapters_read": 232
+      },
+      {
+        "title": "Regression of the Yong Clan Heir",
+        "last_read_formatted": "May 31, 2025",
+        "chapters_read": 22
+      },
+      {
+        "title": "The Return of the Disaster-Class Hero",
+        "last_read_formatted": "August 30, 2025",
+        "chapters_read": 141
+      },
+      {
+        "title": "The Dragon Slayer Academy's Hotshot",
+        "last_read_formatted": "August 30, 2025",
+        "chapters_read": 104
+      },
+      {
+        "title": "A Regressor’s Tale of Cultivation",
+        "last_read_formatted": "August 30, 2025",
+        "chapters_read": 17
+      },
+      {
+        "title": "Childhood Friend of the Zenith",
+        "last_read_formatted": "August 30, 2025",
+        "chapters_read": 69
+      },
+      {
+        "title": "The 100th Regression of the Max-Level Player",
+        "last_read_formatted": "July 30, 2025",
+        "chapters_read": 64
+      },
+      {
+        "title": "The White Tower's Rogue Mage",
+        "last_read_formatted": "April 30, 2025",
+        "chapters_read": 7
+      },
+      {
+        "title": "World’s Greatest Senior Disciple",
+        "last_read_formatted": "August 29, 2025",
+        "chapters_read": 136
+      },
+      {
+        "title": "Emperor's Sword",
+        "last_read_formatted": "August 29, 2025",
+        "chapters_read": 90
+      }
+    ]
+  },
+  "manga_list": [
+    {
+      "id": "2JgZQTd2",
+      "title": "Log-in Murim",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 232,
+      "last_read": "July 31, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "ログイン武林",
+        "로그인 무림",
+        "登录武林系统",
+        "Логин Мурим",
+        "Logeuin Murim"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147389?utm_source=comick",
+        "anilist": "https://anilist.co/manga/120385?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=166824&utm_source=comick"
+      }
+    },
+    {
+      "id": "oeY2OSRH",
+      "title": "Regression of the Yong Clan Heir",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 22,
+      "last_read": "May 31, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "天中龍門",
+        "천중용문",
+        "天中龍門",
+        "天中龙门"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "ieNorEEW",
+      "title": "The Return of the Disaster-Class Hero",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 141,
+      "last_read": "August 30, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "재앙급 영웅님이 귀환하셨다",
+        "Return of the Disaster-Class Hero",
+        "Возвращение героя катастрофы",
+        "Jaeanggeum Yeongungnimi Gwihwanhasyeotda",
+        "Resurrection of the Catastrophic Hero"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/149013?utm_source=comick",
+        "anilist": "https://anilist.co/manga/143056?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=193400&utm_source=comick"
+      }
+    },
+    {
+      "id": "lu3KZ5QL",
+      "title": "The Dragon Slayer Academy's Hotshot",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 104,
+      "last_read": "August 30, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "My Little Brother Is the Academy's Hotshot",
+        "The Hero's Younger Brother Is a Deceased Person in the Academy",
+        "The Little Brother Is the Academy's Hotshot",
+        "勇士弟弟是学院老油条",
+        "勇士弟弟超懂學院大小事"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/156610?utm_source=comick",
+        "anilist": "https://anilist.co/manga/163447?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/69bj5e9?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIErXYA",
+      "title": "A Regressor’s Tale of Cultivation",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 17,
+      "last_read": "August 30, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "회귀수선전",
+        "回歸修仙傳",
+        "ARTOC | RToC | 回歸修仙傳 | 회귀수선전",
+        "La Leyenda de Cultivación de un Regresor"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/183650?utm_source=comick",
+        "anilist": "https://anilist.co/manga/194727?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/rb74vwi?utm_source=comick"
+      }
+    },
+    {
+      "id": "HHGiVJh",
+      "title": "Childhood Friend of the Zenith",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 69,
+      "last_read": "August 30, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "천하제일인의 소꿉친구",
+        "The best childhood friend in the world",
+        "Childhood Friend of the Zenith",
+        "Друг детства сильнейшего воина",
+        "Лучший друг детства на свете"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/172844?utm_source=comick",
+        "anilist": "https://anilist.co/manga/180890?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/xirzt93?utm_source=comick"
+      }
+    },
+    {
+      "id": "ot6FlAq0",
+      "title": "The 100th Regression of the Max-Level Player",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 64,
+      "last_read": "July 30, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "A Centésima Regressão do Jogador de Nível Máximo",
+        "La centième régression du joueur niveau max",
+        "만렙 플레이어의 100번째 회귀",
+        "Mallep Player-ui 100-beonjjae Hoegwi",
+        "La regresión 100 del jugador de nivel máximo"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "9uQQBcD6",
+      "title": "The White Tower's Rogue Mage",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 7,
+      "last_read": "April 30, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "The Magic Tower's Problematic Child",
+        "El chico problemático de la torre mágica",
+        "Проблемный ребёнок магической башни",
+        "জাদু মিনারের অবাধ্য ছেলে",
+        "마탑의 문제아들"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/180507?utm_source=comick",
+        "anilist": "https://anilist.co/manga/189264?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/jhqbdi0?utm_source=comick"
+      }
+    },
+    {
+      "id": "4jZ39j6d",
+      "title": "World’s Greatest Senior Disciple",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 136,
+      "last_read": "August 29, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Unparalleled Senior Brother",
+        "천하제일 대사형",
+        "天下無双大師兄",
+        "天下第一大师兄",
+        "天下第一大師兄"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/163668?utm_source=comick",
+        "anilist": "https://anilist.co/manga/158259?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/tgv2fez?utm_source=comick"
+      }
+    },
+    {
+      "id": "J3Et4SIo",
+      "title": "Emperor's Sword",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 90,
+      "last_read": "August 29, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "황제의 검 (류신)",
+        "황제의 검 (2023)",
+        "皇帝の剣〜絶対至尊への道〜",
+        "L'épée de l'empereur",
+        "Sword of the Emperor"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/172507?utm_source=comick",
+        "anilist": "https://anilist.co/manga/169148?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/12p3w57?utm_source=comick"
+      }
+    },
+    {
+      "id": "l_Vjpvkq",
+      "title": "Second Life Ranker",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 217,
+      "last_read": "August 29, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "เกมชีวิตที่สอง ของแรงเกอร์",
+        "Ranker yang Hidup Dua Kali",
+        "Ранкер",
+        "который живёт второй раз",
+        "二度生きるランカー"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147324?utm_source=comick",
+        "anilist": "https://anilist.co/manga/109957?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=154346&utm_source=comick"
+      }
+    },
+    {
+      "id": "RNiqeWou",
+      "title": "The Fox-Eyed Villain of the Demon Academy",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 31,
+      "last_read": "June 29, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "The Narrow-Eyed Villain of the Demon Academy",
+        "마계 아카데미의 실눈 악역"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/190356?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/gzg2ay2?utm_source=comick"
+      }
+    },
+    {
+      "id": "cDM1OGgv",
+      "title": "Doomsday: Virus Monarch",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 4,
+      "last_read": "June 29, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "全民末日：我！病毒君王",
+        "末日の進化:ウィルス王の覚醒",
+        "末日の進化：ウィルス王の覚醒",
+        "Doomsday: Virus Monarch",
+        "Apocalipse Global: Eu Sou o Rei dos Vírus!"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/177363?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/bkrq9c6?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIFItur",
+      "title": "I Killed an Academy Player",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 68,
+      "last_read": "June 29, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "我殺了學院玩家",
+        "I Killed the Player of the Academy",
+        "Academy Player-reul Jugyeotda",
+        "아카데미 플레이어를 죽였다",
+        "I Killed an Academy Player"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/165028?utm_source=comick",
+        "anilist": "https://anilist.co/manga/173020?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/jbia152?utm_source=comick"
+      }
+    },
+    {
+      "id": "_8BpMfmj",
+      "title": "Relife Player",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 65,
+      "last_read": "February 28, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "리라이프 플레이어",
+        "Re:Life Player",
+        "Re: Life Player",
+        "RELIFE PLAYER ～不死身の狂戦士の回帰～",
+        "Вернувшийся игрок"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/154232?utm_source=comick",
+        "anilist": "https://anilist.co/manga/159438?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/12lnw56?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIET4CH",
+      "title": "Black Haze (2025)",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 28,
+      "last_read": "August 26, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "블랙 헤이즈",
+        "مه سیاه",
+        "Черная мгла",
+        "Schwarzer Dunst",
+        "Juoda migla"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "pDzrEyhX",
+      "title": "Han Daesung, Back From Hell",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 134,
+      "last_read": "July 26, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "지옥에서 돌아온 한대성",
+        "Han Dae Sung Returned From Hell",
+        "Jiogeseo Doraon Handaeseong",
+        "Returned from Hell",
+        "Daesung Han Retorna del Infierno"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/157553?utm_source=comick",
+        "anilist": "https://anilist.co/manga/163820?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/wecnky0?utm_source=comick"
+      }
+    },
+    {
+      "id": "j0AWlMg7",
+      "title": "Chronicles of the Reincarnated Demon God",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 58,
+      "last_read": "August 25, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "La leyenda del dios demonio reencarnado",
+        "転生魔神伝〜逆境を超えし覇王〜",
+        "Legend of the Reincarnated Demon God",
+        "환생마신전"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/177080?utm_source=comick",
+        "anilist": "https://anilist.co/manga/185817?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/dvpb8s3?utm_source=comick"
+      }
+    },
+    {
+      "id": "EPl3QHL_",
+      "title": "Revenge of the Baskerville Bloodhound",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 127,
+      "last_read": "August 25, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "철혈검가 사냥개의 회귀",
+        "Cheolhyeolgeomga Sanyanggaeui Hoegwi",
+        "Demir kanlı kılıç tazısının i̇ntikamı",
+        "回帰した鉄血の猟犬",
+        "铁血剑家猎犬的回归"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/157888?utm_source=comick",
+        "anilist": "https://anilist.co/manga/163824?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/5v7h9gf?utm_source=comick"
+      }
+    },
+    {
+      "id": "eGrWrVOG",
+      "title": "The Demon King Levels Up",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 97,
+      "last_read": "March 25, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "武功魔王",
+        "Demon Lord's Martial Arts Ascension",
+        "무공으로 레벨업하는 마왕님",
+        "The Demon Lord Levels Up With Martial Arts",
+        "レベルアップする魔王様"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/154960?utm_source=comick",
+        "anilist": "https://anilist.co/manga/157560?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/axqscyo?utm_source=comick"
+      }
+    },
+    {
+      "id": "6_bD3LCs",
+      "title": "Heavenly Demon Reborn!",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 252,
+      "last_read": "March 25, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "新马擎天记",
+        "新馬擎天記",
+        "Kroniki Niebiańskiego Demona",
+        "神魔驚天記",
+        "신마경천기"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147572?utm_source=comick",
+        "anilist": "https://anilist.co/manga/107518?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=152551&utm_source=comick"
+      }
+    },
+    {
+      "id": "HIFItus",
+      "title": "The Last Adventurer",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 59,
+      "last_read": "March 25, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "최후의 모험가",
+        "Последний искатель приключений",
+        "Choehu-ui Moheomga",
+        "Maplestory: The Last Adventurer",
+        "The Last Adventurer"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "6wFG0hji",
+      "title": "Boundless Ascension",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 150,
+      "last_read": "August 24, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "나 혼자 특성빨로 무한 성장",
+        "Boundless Necromancer",
+        "Некромант",
+        "не знающий границ",
+        "Мой сольный бесконечный рост"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/155178?utm_source=comick",
+        "anilist": "https://anilist.co/manga/159439?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/qe0uj7a?utm_source=comick"
+      }
+    },
+    {
+      "id": "iE0hmbYC",
+      "title": "The Stellar Swordmaster",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 95,
+      "last_read": "June 24, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "The Stellar Swordmaster",
+        "Le chevalier aux armoiries d'étoiles",
+        "별을 품은 소드마스터",
+        "Star-Fostered Swordmaster",
+        "星剣のソードマスター"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/163116?utm_source=comick",
+        "anilist": "https://anilist.co/manga/170400?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/cnro3u3?utm_source=comick"
+      }
+    },
+    {
+      "id": "qxilXyaR",
+      "title": "Omniscient Reader's Viewpoint",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 237,
+      "last_read": "March 24, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "Omniscient Reader",
+        "ORV",
+        "Lecteur omniscient",
+        "Lector omnisciente",
+        "全知的な読者の視点から"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/132214?utm_source=comick",
+        "anilist": "https://anilist.co/manga/119257?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=167681&utm_source=comick"
+      }
+    },
+    {
+      "id": "HIEUEeg",
+      "title": "The God of War Who Regressed to Level 2",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 100,
+      "last_read": "June 23, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "2레벨로 회귀한 무신",
+        "El dios marcial que regresó al nivel 2",
+        "The God of War Who Regressed to Level 2",
+        "レベル2から始まるやり直し",
+        "เทพนักรบผู้หวนคืนสู่เลเวล 2"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "rwq0tOTa",
+      "title": "Level 1 Player",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 85,
+      "last_read": "April 23, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "1레벨 플레이어",
+        "Игрок 1-го уровня",
+        "Lv1プレイヤー",
+        "1 Seviye Oyuncu",
+        "1等级玩家"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/149138?utm_source=comick",
+        "anilist": "https://anilist.co/manga/144126?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=194468&utm_source=comick"
+      }
+    },
+    {
+      "id": "yyPnhtA_",
+      "title": "All Hail the Sect Leader",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 444,
+      "last_read": "August 22, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "The Greatest Sect Leader of All-Time",
+        "Wangu Zui Qiang Zong",
+        "万古最强宗",
+        "La secta más fuerte de todos los tiempos",
+        "Todos Saúdam o Líder da Seita"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/136499?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/oyvebmw?utm_source=comick"
+      }
+    },
+    {
+      "id": "Hv3WjuSR",
+      "title": "Level Up with the Gods",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 142,
+      "last_read": "August 21, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Leveling Up With the Gods",
+        "Поднятие уровня с богами",
+        "Singwa Hamkke Level Up",
+        "เลเวลอัปไปกับเทพเจ้า",
+        "神と共にレベルアップ"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/148009?utm_source=comick",
+        "anilist": "https://anilist.co/manga/138222?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=186811&utm_source=comick"
+      }
+    },
+    {
+      "id": "PzA2FKRV",
+      "title": "The Count's Youngest Son Is a Gamer",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 100,
+      "last_read": "May 19, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "The Youngest of the Count Is Actually a Player",
+        "The Youngest Son of the Count Is a Player",
+        "De jugador a NPC legendario",
+        "El hijo menor del Conde es un jugador",
+        "The Count's Youngest Son Is a Player"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/165026?utm_source=comick",
+        "anilist": "https://anilist.co/manga/173186?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/xwtmpwt?utm_source=comick"
+      }
+    },
+    {
+      "id": "KMpUeUWE",
+      "title": "I Came Back as a Martial Genius",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 90,
+      "last_read": "April 19, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "회귀했더니 무공 천재",
+        "EL REGRESO DEL GENIO DE LAS ARTES MARCIALES",
+        "Return of the Martial Arts Genius",
+        "I Came Back and I Was a Martial Genius",
+        "I Came Back"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/165084?utm_source=comick",
+        "anilist": "https://anilist.co/manga/170554?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/ui5k4nz?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIEegVt",
+      "title": "The Investor Who Sees the Future",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 53,
+      "last_read": "August 18, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "미래를 보는 투자자 | Prescient Investor",
+        "미래를 보는 투자자",
+        "Prescient Investor",
+        "The Investor Who Sees the Future",
+        "Foresighting Investor"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "ESkahI1J",
+      "title": "The Absolute Ruler of the House",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 22,
+      "last_read": "July 18, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "房子的绝对者",
+        "The Ultimate Shut-in",
+        "โทษที พื้นที่นี้ห้ามออก!",
+        "家之王者",
+        "Absolute Dweller"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "COc5bRIV",
+      "title": "House Mayton's Youngest",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 91,
+      "last_read": "May 18, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "Mabeommyeongga Mangnaeadeul",
+        "Moi",
+        "Mage et Méchant",
+        "The Youngest Son of a Magician",
+        "名門魔術師一家の出来損ない"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/153519?utm_source=comick",
+        "anilist": "https://anilist.co/manga/156558?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/ntbq5qj?utm_source=comick"
+      }
+    },
+    {
+      "id": "sWZd4eEc",
+      "title": "Chronicles of a Doomed Prodigy",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 49,
+      "last_read": "August 17, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "How a Terminally Ill Genius Survives",
+        "시한부 천재가 살아남는 법",
+        "Surviving as a Genius on Borrowed Time",
+        "Sobreviviendo como un genio con tiempo prestado",
+        "短命天才生存法"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/174692?utm_source=comick",
+        "anilist": null,
+        "mangaupdates": "https://www.mangaupdates.com/series/y993vgb?utm_source=comick"
+      }
+    },
+    {
+      "id": "bsDER2lR",
+      "title": "The Genius AssassinWho Takes It All",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 70,
+      "last_read": "March 17, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "The Genius Assassin Who Eats All By Himself",
+        "The Genius Assassin Who Eats Everything Alone",
+        "全靠自己的暗杀天才",
+        "悪役作家はチート暗殺者",
+        "自導自演的天才暗殺者"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "013D0gnq",
+      "title": "My Blasted Reincarnated Life",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 81,
+      "last_read": "January 17, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "該死的輪迴",
+        "빌어먹을 환생",
+        "Чертова реинкарнация",
+        "تناسخ لعنتی",
+        "Reinkarnasi Brengsek"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/149438?utm_source=comick",
+        "anilist": "https://anilist.co/manga/151512?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/j7x0kkd?utm_source=comick"
+      }
+    },
+    {
+      "id": "2UmYsLgM",
+      "title": "Chronicles of the Demon Faction",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 131,
+      "last_read": "August 16, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "마도전생기",
+        "ตำนานการเกิดใหม่ในลัทธิมาร",
+        "魔道轉生記",
+        "魔道转生记",
+        "Crónicas de la Facción Demoníaca"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/157591?utm_source=comick",
+        "anilist": "https://anilist.co/manga/164222?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/kuw7coe?utm_source=comick"
+      }
+    },
+    {
+      "id": "LN1gAHNy",
+      "title": "Super Gene",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 226,
+      "last_read": "May 16, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "超级神基因",
+        "Super God Gene",
+        "Chaoji Shen Jiyin",
+        "Chāojí Shén Jīyīn",
+        "SSS級エイリアンハンター～最底辺生物狩りから始まる成り上がり～"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/146404?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=193686&utm_source=comick"
+      }
+    },
+    {
+      "id": "bogzfqR9",
+      "title": "I Was More Overpowered Than the Hero, so I Hid My Power!",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 88,
+      "last_read": "September 14, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "용사보다 너무 강해서 힘을 숨김",
+        "転生したら最強すぎるのでモブキャラ演じます",
+        "Secretamente mais poderoso do que o herói",
+        "Yongsaboda Neomu Ganghaeseo Himeul Sumgim",
+        "隐藏实力的幕后高手"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/165324?utm_source=comick",
+        "anilist": "https://anilist.co/manga/171810?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/u7ah0n3?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIEWEG9",
+      "title": "Chronicles Of The Lazy Sovereign",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 14,
+      "last_read": "September 14, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "태존비록",
+        "The Secret Records of the Supreme",
+        "Taejon Birok",
+        "怠尊秘錄"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/195914?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/9cdts23?utm_source=comick"
+      }
+    },
+    {
+      "id": "nMhN1BlT",
+      "title": "The Devil Butler",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 753,
+      "last_read": "September 14, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "Devil Butler",
+        "Как демон-император стал дворецким",
+        "The Servant Is the Demon King?!",
+        "魔皇大管家",
+        "Mo Huang Da Guan Jia"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/116353?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=159270&utm_source=comick"
+      }
+    },
+    {
+      "id": "sSdUskm5",
+      "title": "There Are No Bad Warriors in This World",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 38,
+      "last_read": "June 14, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "There’s No Such Thing as a Bad Hero in the World",
+        "世上沒有壞勇者",
+        "There Are No Bad Warriors in the World",
+        "There Are No Bad Heroes in This World",
+        "세상에 나쁜 용사는 없다"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/176222?utm_source=comick",
+        "anilist": "https://anilist.co/manga/185991?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/g1v9l2l?utm_source=comick"
+      }
+    },
+    {
+      "id": "NLQxbB6l",
+      "title": "World's Strongest Survivor",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 21,
+      "last_read": "August 13, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "서바이벌로 세계 최강",
+        "Kanun Tanımaz Oyuncu",
+        "Survival-ro Segye Choegang",
+        "El sobreviviente más fuerte del mundo"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/191819?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/k0k2k3h?utm_source=comick"
+      }
+    },
+    {
+      "id": "HHGfgZ7",
+      "title": "Artifact-Devouring Player",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 25,
+      "last_read": "July 13, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "Artifact-Devouring Player",
+        "神器吞噬者",
+        "아티팩트 먹는 플레이어",
+        "我靠吞噬神器变强"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/188686?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/dy29umq?utm_source=comick"
+      }
+    },
+    {
+      "id": "jfuVawLO",
+      "title": "Max Talent Player",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 75,
+      "last_read": "May 13, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "才能MAXプレイヤー",
+        "Max Talent Player",
+        "Talent Management Player",
+        "A Talented Player",
+        "재능만렙 플레이어"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "7NqCObsf",
+      "title": "The Lone Necromancer",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 155,
+      "last_read": "September 12, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "나 혼자 네크로맨서",
+        "Jedyny Nekromanta",
+        "Некромант-одиночка",
+        "死灵法师：亡灵支配者",
+        "Solo Necromancy"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147450?utm_source=comick",
+        "anilist": "https://anilist.co/manga/139572?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=188741&utm_source=comick"
+      }
+    },
+    {
+      "id": "yTGZqTJE",
+      "title": "Enrolling in the Transcendent Academy",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 174,
+      "last_read": "September 12, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "초월자 학원의 수강생이 되었다",
+        "Я стал студентом Трансцендентальной Академии",
+        "I Became a Student at the Transcension Academy",
+        "Enrolling in the Transcendent Academy",
+        "Transcension Academy"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/153120?utm_source=comick",
+        "anilist": "https://anilist.co/manga/152608?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/qu9pvzg?utm_source=comick"
+      }
+    },
+    {
+      "id": "cd9x_RsS",
+      "title": "The Reincarnated Assassin Is a Swordmaster",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 77,
+      "last_read": "September 12, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "환생한 암살자는 검술 천재",
+        "The Reincarnated Assassin is a Genius Swordsman",
+        "重生刺客是天才剑士",
+        "El asesino reencarnado es un genio de la espada",
+        "Hwansaenghan Amsaljaneun Geomsul Cheonjae"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/162380?utm_source=comick",
+        "anilist": "https://anilist.co/manga/168823?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/ro0x0up?utm_source=comick"
+      }
+    },
+    {
+      "id": "zxfEWEvs",
+      "title": "Return of the Hound",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 70,
+      "last_read": "June 12, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "Bloodhound's Regression Instinct",
+        "El instinto de regresión del sabueso",
+        "The Return Instinct of the Hunting Dog",
+        "The Returning Instinct of a Hound",
+        "猎狗的回归本能"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "Zujbr0TC",
+      "title": "Skill Master Levels Up",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 100,
+      "last_read": "April 12, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "2周目プレイヤー、最高難易度を無双してレベルアップ",
+        "Levelling Up Through Skills",
+        "Skill Masters Level Up",
+        "เลเวลอัปด้วยสกิลขั้นเทพ",
+        "スキルアローンモードでレベルアップ"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/159834?utm_source=comick",
+        "anilist": "https://anilist.co/manga/165689?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/sk3jlmc?utm_source=comick"
+      }
+    },
+    {
+      "id": "BGFHlkI8",
+      "title": "The Great Wizard Transcendent",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 125,
+      "last_read": "March 12, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Archmage Transcending Through Regression",
+        "회귀로 초월하는 대마도사",
+        "Arquimago Transcendido Pela Regressão",
+        "Hoegwiro Chowolhaneun Daemadosa",
+        "L'archimage transcende par revenir en le temps"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/153859?utm_source=comick",
+        "anilist": "https://anilist.co/manga/155618?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/m8lw9la?utm_source=comick"
+      }
+    },
+    {
+      "id": "_Yo2tLum",
+      "title": "The Magic Genius of the Marquis House",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 30,
+      "last_read": "February 12, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "The Marquis's Family Magical Genius",
+        "The Marquis' Magic Genius",
+        "The Magic Genius of the Marquis",
+        "후작가의 마법 천재",
+        "El genio mágico del Marqués"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/183696?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/e36jo1q?utm_source=comick"
+      }
+    },
+    {
+      "id": "x_bdWVIL",
+      "title": "A Modern Man Who Transmigrated Into the Murim World",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 144,
+      "last_read": "September 11, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Murime Tteoreojin Hyeondaein",
+        "무림에 떨어진 현대인",
+        "Modern Man Falling Into the World of Murim",
+        "Un hombre moderno en el Murim",
+        "Modern Dude in the Murim"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/158496?utm_source=comick",
+        "anilist": "https://anilist.co/manga/159445?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/pupzzsk?utm_source=comick"
+      }
+    },
+    {
+      "id": "p2JNAEhS",
+      "title": "Reality Quest",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 170,
+      "last_read": "September 11, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "IRL Quest",
+        "Real Life Quest",
+        "현실퀘스트",
+        "Hyeonsil Quest",
+        "Реалити Квест"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/151157?utm_source=comick",
+        "anilist": "https://anilist.co/manga/141705?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=190934&utm_source=comick"
+      }
+    },
+    {
+      "id": "i3U99GMc",
+      "title": "Frozen Warrior",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 10,
+      "last_read": "September 11, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "นักรบแช่แข็ง",
+        "The Frostbound Warrior",
+        "냉동무사",
+        "Kesatria Es",
+        "冰影戰魂"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "evPcEhyO",
+      "title": "Chāoshén Chǒngshòu Diàn",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 181,
+      "last_read": "September 11, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "超神宠兽店",
+        "Chāo Shén Chǒng Shòu Diàn",
+        "Super God Pet Shop",
+        "Chao Shen Chong Shou Dian",
+        "Cửa hàng sủng thú siêu thần"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/160143?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/8lke1mq?utm_source=comick"
+      }
+    },
+    {
+      "id": "PKUYjwxw",
+      "title": "Your Talent is Mine",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 103,
+      "last_read": "August 11, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Wo Neng Fu Zhi Tian Fu",
+        "I Can Copy Talents",
+        "I Copy Talents",
+        "我能复制天赋",
+        "Talent Copycat"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/138366?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=184589&utm_source=comick"
+      }
+    },
+    {
+      "id": "LHup5qVT",
+      "title": "The Greatest Estate Developer",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 191,
+      "last_read": "June 11, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "역대급 영지 설계사",
+        "The Greatest Estate Designer",
+        "史上最高の領地設計士",
+        "The World's Best Engineer",
+        "史诗级领地设计师"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147272?utm_source=comick",
+        "anilist": "https://anilist.co/manga/140407?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=186405&utm_source=comick"
+      }
+    },
+    {
+      "id": "M0fF4h3N",
+      "title": "F-Rank Fortune Hunter",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 81,
+      "last_read": "May 11, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "F-Class Destiny Hunter",
+        "F급 사주 헌터",
+        "F-Geub Saju Hunter",
+        "Cazador de destinos de clase F",
+        "F級四柱推命ハンター〜運命を強奪せよ〜"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/158399?utm_source=comick",
+        "anilist": "https://anilist.co/manga/164996?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/4wa1aa4?utm_source=comick"
+      }
+    },
+    {
+      "id": "oaIJwyZv",
+      "title": "The Ultimate of All Ages",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 456,
+      "last_read": "September 10, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "万古至尊",
+        "The Ancient Sovereign of Eternity",
+        "The Eternal Supreme",
+        "The Ultimate of All Ages",
+        "Ancient One"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/138726?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=182943&utm_source=comick"
+      }
+    },
+    {
+      "id": "yXKM8g__",
+      "title": "I Am the Fated Villain",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 277,
+      "last_read": "September 10, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "Wǒ! Tiānmìng Dà Fǎnpài",
+        "Wo! Tian Mìng Da Fanpai",
+        "Me",
+        "the Heavenly Destined Villain",
+        "My Fate As a Villain"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/142287?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=189392&utm_source=comick"
+      }
+    },
+    {
+      "id": "JLJUjtxB",
+      "title": "The Regressed Mercenary Has a Plan",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 55,
+      "last_read": "September 10, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "重生佣兵王的复仇",
+        "重生傭兵的完美計畫",
+        "Zregresowany najemnik ma plan",
+        "회귀한 용병은 다 계획이 있다",
+        "Hoegwihan Yongbyeongeun Da Gyehoegi Itda"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/174559?utm_source=comick",
+        "anilist": "https://anilist.co/manga/182066?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/ya9vyfk?utm_source=comick"
+      }
+    },
+    {
+      "id": "4kITMR1v",
+      "title": "Wild Ranker",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 12,
+      "last_read": "July 10, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "와일드 랭커"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": "https://www.mangaupdates.com/series/135uiz6?utm_source=comick"
+      }
+    },
+    {
+      "id": "R3Jt76QH",
+      "title": "Genius Grandson of the Loan Shark King",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 68,
+      "last_read": "September 09, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "Nieto genio del rey de los prestamistas",
+        "หลานอัจฉริยะของราชาเงินกู้",
+        "金融大佬的天才孙子",
+        "사채왕의 천재손자"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "HIEmevp",
+      "title": "Return of the Calamity-Class Death Knight",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 35,
+      "last_read": "September 09, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "멸망급 데스나이트가 회귀함",
+        "Return of the Apocalypse-Class Death Knight"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "HIF1Zpp",
+      "title": "Regressing as the Reincarnated Bastard of the Sword Clan",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 59,
+      "last_read": "July 09, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "Regressing as the Reincarnated Bastard of the Sword Clan",
+        "How to Survive as the Bastard of the Regression Sword Clan",
+        "Como vive un bastardo en su regresión",
+        "The Life of a Regressed Sword master’s Illegitimate Son",
+        "Regresando como el bastardo reencarnado del Clan de la Espada"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "MdAxLzXQ",
+      "title": "Murim RPG Simulation",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 144,
+      "last_read": "June 09, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "천마육성",
+        "Heavenly Demon Cultivation Simulation",
+        "Восхождение небесного демона",
+        "天魔育成",
+        "天魔玩家"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147642?utm_source=comick",
+        "anilist": "https://anilist.co/manga/141076?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=189950&utm_source=comick"
+      }
+    },
+    {
+      "id": "MWtItRof",
+      "title": "Supreme Zerg Lord",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 64,
+      "last_read": "June 09, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "Overlord of Insects",
+        "The Zerg Dominator",
+        "The King of the Insects",
+        "全民：我虫族主宰",
+        "Insect Overlord"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "MpuAjPA4",
+      "title": "The Legend of the Northern Blade",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 201,
+      "last_read": "April 09, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "Bắc Kiếm Giang Hồ",
+        "북검전기",
+        "Buggeomjeongi",
+        "Biographie de l'épée du nord",
+        "北剣伝記"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/134744?utm_source=comick",
+        "anilist": "https://anilist.co/manga/119521?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=166922&utm_source=comick"
+      }
+    },
+    {
+      "id": "AWLzuL1k",
+      "title": "The Extra Is Too Powerful",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 100,
+      "last_read": "September 08, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "穿越成為超強配角",
+        "The Extra Is Too Strong",
+        "엑스트라가 너무 강함",
+        "Ekseuteura-ga Neomu Gangham",
+        "El Extra es Demasiado Fuerte"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/159916?utm_source=comick",
+        "anilist": null,
+        "mangaupdates": "https://www.mangaupdates.com/series/w0hv6eh?utm_source=comick"
+      }
+    },
+    {
+      "id": "Maf30oos",
+      "title": "The Sword God From the Destroyed World",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 31,
+      "last_read": "September 08, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "The Sword God From a Fallen World",
+        "The Sword God From a Ruined World",
+        "Sword God from the Ruined World",
+        "멸망한 세계에서 온 검신",
+        "Bóg miecza z zniszczonego świata"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "UExLYHoW",
+      "title": "Solo Resurrection",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 60,
+      "last_read": "September 08, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "Na Honja Buhwalhanda",
+        "Só Eu Revivo",
+        "I Am Resurrected Alone",
+        "Resurrección solitaria",
+        "Tái Sinh Đơn Độc"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/174472?utm_source=comick",
+        "anilist": "https://anilist.co/manga/180904?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/ph4f64e?utm_source=comick"
+      }
+    },
+    {
+      "id": "PBu7UHtu",
+      "title": "Dumped by my girlfriend, I turned to martial arts.",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 19,
+      "last_read": "September 08, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "被校花分手后，我直接武道通神"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": "https://www.mangaupdates.com/series/qwk7zcv?utm_source=comick"
+      }
+    },
+    {
+      "id": "Di19IEo5",
+      "title": "The Lord of Coins",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 151,
+      "last_read": "April 08, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Lordun Parası Azalmaz Mı?",
+        "The Lord's Coins Aren't Decreasing?!",
+        "Разве монета лорда не уменьшается?!",
+        "領主大人的次元交易戰",
+        "Grenzenloser Reichtum"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/148679?utm_source=comick",
+        "anilist": "https://anilist.co/manga/133708?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=180577&utm_source=comick"
+      }
+    },
+    {
+      "id": "BB2OGCSU",
+      "title": "Return of the Blossoming Blade",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 152,
+      "last_read": "March 08, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Hwasan Gwihwan",
+        "Hoa Sơn Quy Hoàn",
+        "화산귀환",
+        "Return of the Mount Hua Sect",
+        "Return of Sword Master"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/146878?utm_source=comick",
+        "anilist": "https://anilist.co/manga/132144?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=179258&utm_source=comick"
+      }
+    },
+    {
+      "id": "1FPOvLUd",
+      "title": "Why I Quit Being the Demon King",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 43,
+      "last_read": "March 08, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "마왕을 그만둔 이유",
+        "Mawangeul Geumandun Iyu",
+        "Alasan Mengapa Aku Berhenti Jadi Raja Iblis",
+        "Renuncié a ser el rey demonio",
+        "The Reason Why I Quit Being the Demon King"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "smSy8jzF",
+      "title": "Demon Evolution",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 117,
+      "last_read": "September 07, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Demon Evolution",
+        "我，进化，恶魔",
+        "Demonic Evolution",
+        "No me volveré un demonio",
+        "안에 최종보스가 들어왔다"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "6fhIgNkN",
+      "title": "The Swordmaster's Son",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 175,
+      "last_read": "September 07, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Youngest Son of the Renowned Swordsmanship Clan",
+        "검술명가 막내아들",
+        "The Youngest Son of a Renowned Family of Swordsmen",
+        "Младший сын фехтовальщика",
+        "Swordmaster's Youngest Son"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/146949?utm_source=comick",
+        "anilist": "https://anilist.co/manga/149332?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=200168&utm_source=comick"
+      }
+    },
+    {
+      "id": "HIEYMO9",
+      "title": "I Became the Genius Bastard of a Noble Dark Clan",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 37,
+      "last_read": "July 07, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "암흑명가 천재 망나니가 되었다",
+        "Me convertí en el genio bastardo de un noble clan oscuro",
+        "Eu me tornei o gênio bastardo de um nobre clã das trevas"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "CnikgmT2",
+      "title": "The Demonic Cult Instructor Returns",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 15,
+      "last_read": "July 07, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "귀환마교관",
+        "Returning Demon Instructor"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/195513?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/2exyena?utm_source=comick"
+      }
+    },
+    {
+      "id": "GpIzxNnb",
+      "title": "I'm the Max-Level Newbie",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 222,
+      "last_read": "September 06, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "ผู้เล่นหน้าใหม่เลเวลแมกซ์",
+        "Na Honja Mallep Newbie",
+        "나 혼자 만렙 뉴비",
+        "我独自满级新手",
+        "滿級新手"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147392?utm_source=comick",
+        "anilist": "https://anilist.co/manga/137280?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=186008&utm_source=comick"
+      }
+    },
+    {
+      "id": "uNHOeeYF",
+      "title": "Return of the Mad Demon",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 168,
+      "last_read": "September 06, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "광마회귀",
+        "The Return of the Crazy Demon",
+        "狂魔重生",
+        "Gwangmahoegwi",
+        "狂魔重生記"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147577?utm_source=comick",
+        "anilist": "https://anilist.co/manga/137304?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=185656&utm_source=comick"
+      }
+    },
+    {
+      "id": "pQMIp5w8",
+      "title": "Top Tier Providence",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 229,
+      "last_read": "September 06, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "顶级气运，悄悄修炼千年",
+        "Dingji Qiyun",
+        "Qiaoqiao Xiulian Qiannian",
+        "Dǐngjí Qìyùn",
+        "Qiāoqiāo Xiūliàn Qiānnián"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/154258?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/5sdrng5?utm_source=comick"
+      }
+    },
+    {
+      "id": "TjV9MRgw",
+      "title": "Mercenary Enrollment",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 254,
+      "last_read": "September 06, 2025",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "少年佣兵",
+        "입학용병",
+        "พี่ชายสายบอดี้การ์ด",
+        "入學傭兵",
+        "Tentara Menyamar Jadi Anak SMA"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/146966?utm_source=comick",
+        "anilist": "https://anilist.co/manga/126297?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=173705&utm_source=comick"
+      }
+    },
+    {
+      "id": "cO3mD8a6",
+      "title": "I Became the Successor of the Martial God",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 37,
+      "last_read": "September 06, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "무신의 후계자가 되었다",
+        "I Became the War God’s Successor"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/180728?utm_source=comick",
+        "anilist": "https://anilist.co/manga/189739?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/udohxph?utm_source=comick"
+      }
+    },
+    {
+      "id": "GimPhk1K",
+      "title": "To Be an Actor",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 33,
+      "last_read": "June 06, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "Be the Actor",
+        "Baeuroseo Salgetda",
+        "I Will Live as an Actor",
+        "배우로서 살겠다",
+        "役者として生きる"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/155890?utm_source=comick",
+        "anilist": "https://anilist.co/manga/160454?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/mtwk25n?utm_source=comick"
+      }
+    },
+    {
+      "id": "6RhVx4Oa",
+      "title": "Just Read Me Already!",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 47,
+      "last_read": "May 06, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "I Became a Legendary Arch Mage by Reading a Book",
+        "I Become a Legendary Arch Mage by Reading a Book",
+        "Please Read It",
+        "Please Read Me",
+        "ไหว้ละพี่ อ่านผมทีเถอะ"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/174224?utm_source=comick",
+        "anilist": "https://anilist.co/manga/184588?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/fl7gajo?utm_source=comick"
+      }
+    },
+    {
+      "id": "R0fKHCb1",
+      "title": "The SSS-Ranker Returns",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 155,
+      "last_read": "September 05, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "SSS급 랭커 회귀하다",
+        "Return of the SSS-Class Ranker",
+        "Regreso del ranker de clase SSS",
+        "Back to SSS Rank",
+        "SSS-geup Ranker Hoegwihada"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/151483?utm_source=comick",
+        "anilist": "https://anilist.co/manga/153883?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/a6rbwba?utm_source=comick"
+      }
+    },
+    {
+      "id": "_RNJITG9",
+      "title": "Reincarnated as a Genius Prodigy of a Prestigious Family",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 54,
+      "last_read": "June 05, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "Chuyển Sinh Thành Thiên Tài Xuất Chúng Của Danh Môn Thế Gia",
+        "Reencarné como un genio de linaje prestigioso",
+        "Reborn as the Greatest Talent of the Noble Family",
+        "名家の天才に転生しました",
+        "I Was Reincarnated as a Brilliant Genius of a Prestigious Lineage"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "ssI5N7iK",
+      "title": "Duke Pendragon: Master of the White Dragon",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 119,
+      "last_read": "February 05, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Baengnyonggongjang",
+        "Hakuryuu Koushaku Pendragon",
+        "백룡공작 팬드래건",
+        "White Dragon Duke: Pendragon",
+        "白龍公爵ペンドラゴン"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/143025?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=193351&utm_source=comick"
+      }
+    },
+    {
+      "id": "jB2ZV42H",
+      "title": "The Nine Heavens Swordmaster",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 132,
+      "last_read": "September 04, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Heavenly Inquisition Sword",
+        "구천구검",
+        "Gucheongugeom",
+        "Espada de la inquisición celestial",
+        "L'Épée des neuf cieux"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/153509?utm_source=comick",
+        "anilist": "https://anilist.co/manga/156193?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/oqvzgof?utm_source=comick"
+      }
+    },
+    {
+      "id": "ucxb5LhR",
+      "title": "All My Alter Egos Are Tycoons",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 51,
+      "last_read": "September 04, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "分身封神中",
+        "My Avatars' Path to Greatness",
+        "All My Alter Egos Are Tycoons",
+        "Mis alter egos son seres trascendentales",
+        "My Alter Ego's Path to Greatness"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/174687?utm_source=comick",
+        "anilist": "https://anilist.co/manga/182139?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/6sqizap?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIEYqDx",
+      "title": "Hiding a Logistics Center in The Apocalypse",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 57,
+      "last_read": "September 04, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "아포칼립스에 물류센터를 숨김",
+        "Hiding a Warehouse in the Apocalypse",
+        "Almacenes ocultos en el Apocalipsis",
+        "โกดังลับหลังโลกแตก",
+        "末日物流中心"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/183519?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/cmkgwks?utm_source=comick"
+      }
+    },
+    {
+      "id": "MnVA40wg",
+      "title": "Returned by the King",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 106,
+      "last_read": "September 04, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "왕의 힘으로 회귀한다",
+        "Return with the Power of the King",
+        "Regressing With the King's Power",
+        "Return to the King's Power",
+        "Return to the Power of the King"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/164820?utm_source=comick",
+        "anilist": "https://anilist.co/manga/170724?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/v9btf4k?utm_source=comick"
+      }
+    },
+    {
+      "id": "t1iLNZ4k",
+      "title": "Barbarian’s Adventure in a Fantasy World",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 32,
+      "last_read": "September 04, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "Surviving as a Barbarian in a Fantasy World",
+        "판타지 세계 속 바바리안으로 살아가기",
+        "A Barbarian Adventure in a Fantasy World",
+        "Surviving as a barbarian in a Fantasy World",
+        "Trở Thành Man Di Ở Thế Giới Fantasy"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/184657?utm_source=comick",
+        "anilist": null,
+        "mangaupdates": "https://www.mangaupdates.com/series/htmmw28?utm_source=comick"
+      }
+    },
+    {
+      "id": "99sr80kM",
+      "title": "Pick Me Up",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 163,
+      "last_read": "September 04, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Pick Me Up",
+        "Infinite Gacha",
+        "픽 미 업!",
+        "Pick Me Up!",
+        "PICK ME UP～低レア★英雄の成り上がり～"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/154587?utm_source=comick",
+        "anilist": "https://anilist.co/manga/159441?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/r4ksmo5?utm_source=comick"
+      }
+    },
+    {
+      "id": "4BIMafEZ",
+      "title": "The Youngest Son of the Eunhae Merchant Group",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 28,
+      "last_read": "August 04, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "The Youngest Son of the Eunhae Sangdan",
+        "은해상단 막내아들",
+        "El hijo menor del Grupo Mercantil Eunhae",
+        "Tiểu Công Tử Của Ân Hạ Thương Đoàn"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/193752?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/4w0h14q?utm_source=comick"
+      }
+    },
+    {
+      "id": "54Zwh6iY",
+      "title": "After Ten Millennia in Hell",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 123,
+      "last_read": "August 04, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "만 년 만에 귀환한 플레이어",
+        "Игрок",
+        "который вернулся спустя 10 000 лет",
+        "Man Nyeon Mane Gwihwanhan Player",
+        "Гравець"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/150210?utm_source=comick",
+        "anilist": "https://anilist.co/manga/153284?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/biuiwcm?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIEXsYM",
+      "title": "Disciple of the Three Kings",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 47,
+      "last_read": "July 04, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "삼왕의 제자",
+        "The Three Kings' Disciple",
+        "Three Kings' Disciple"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/177488?utm_source=comick",
+        "anilist": null,
+        "mangaupdates": "https://www.mangaupdates.com/series/odtvht6?utm_source=comick"
+      }
+    },
+    {
+      "id": "fqj0I1TJ",
+      "title": "Reincarnated as an Unruly Heir",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 109,
+      "last_read": "June 04, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "重生不良小教主",
+        "Vice-Lord's Rebirth",
+        "I Reincarnated as the Crazed Heir",
+        "ハチャメチャ魔教の小教主に転生した件",
+        "重生不良少教主"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/148512?utm_source=comick",
+        "anilist": "https://anilist.co/manga/138397?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=185739&utm_source=comick"
+      }
+    },
+    {
+      "id": "lScjkiSP",
+      "title": "The Return of the Legendary Archmage",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 58,
+      "last_read": "July 03, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "El regreso del archimago mítico",
+        "レイベル・ヴァイテナーの魔導継承",
+        "神话级大魔法师的归来",
+        "The Reincarnation of the Great Mage in Myth",
+        "The Return of the Mythical Archmage"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "Qy66f_CI",
+      "title": "Latna Saga: Survival of a Sword King",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 76,
+      "last_read": "June 03, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "拔剑九亿次",
+        "이계 검왕 생존기",
+        "Igye Geomwang Saengjongi",
+        "การเอาชีวิตรอดของราชาดาบในต่างโลก",
+        "異世界剣王生存記"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/146982?utm_source=comick",
+        "anilist": "https://anilist.co/manga/114605?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=160778&utm_source=comick"
+      }
+    },
+    {
+      "id": "HW5oQTRG",
+      "title": "Urek Mazino",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 26,
+      "last_read": "September 02, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "Tower of God: Urek's Ascent",
+        "อูเร็ค มาซิโน่",
+        "神之塔外传:乌雷克·马奇努",
+        "우렉 마지노",
+        "Tower of God: Urek Mazino"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/181485?utm_source=comick",
+        "anilist": "https://anilist.co/manga/191727?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/7ic4l1q?utm_source=comick"
+      }
+    },
+    {
+      "id": "BQK0GXZ1",
+      "title": "Mythic Item Obtained",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 144,
+      "last_read": "September 02, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "신화급 귀속 아이템을 손에 넣었다",
+        "Я получил предмет мифического класса",
+        "من یک قطعه درجه اسطوره ای بدست آوردم",
+        "Sinhwageub Gwisog Aitem-eul son-e Neoh-eossda",
+        "I Obtained a Mythic Item"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/150561?utm_source=comick",
+        "anilist": "https://anilist.co/manga/151025?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/itm1ceu?utm_source=comick"
+      }
+    },
+    {
+      "id": "IS9XgW_S",
+      "title": "Descended from Divinity",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 164,
+      "last_read": "July 02, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "천마는 평범하게 살 수 없다",
+        "The Reincarnation of the Dark Master",
+        "Реинкарнация тёмного магистра",
+        "The Heavenly Demon Can't Live a Normal Life",
+        "Cheonmaneun Pyeongbeomhage Sal Su Eopda"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147847?utm_source=comick",
+        "anilist": "https://anilist.co/manga/136204?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=183577&utm_source=comick"
+      }
+    },
+    {
+      "id": "jZY2wg89",
+      "title": "The Celestial Returned from Hell",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 133,
+      "last_read": "February 02, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "A Constelação que Voltou do Inferno",
+        "지옥에서 돌아온 성좌님",
+        "地獄から蘇った聖座様",
+        "Созвездие",
+        "вернувшееся из бездны"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147569?utm_source=comick",
+        "anilist": "https://anilist.co/manga/132457?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/r3mpe2x?utm_source=comick"
+      }
+    },
+    {
+      "id": "OY7hKOMr",
+      "title": "Helmut: The Forsaken Child",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 105,
+      "last_read": "September 01, 2025",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "Helmut (Kim Nan Sae)",
+        "Helmut (Honyo)",
+        "헬무트",
+        "Helmut",
+        "Helmut: A Criança Abandonada"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/151242?utm_source=comick",
+        "anilist": "https://anilist.co/manga/154782?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/kjv5b8d?utm_source=comick"
+      }
+    },
+    {
+      "id": "zoXFVygx",
+      "title": "The Indomitable Martial King",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 97,
+      "last_read": "September 01, 2025",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "권왕전생",
+        "拳王轉生",
+        "Gwonwangjeonsaeng",
+        "El Indomable Rey Marcial",
+        "KRÓL NIEWOLNIKÓW"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/168970?utm_source=comick",
+        "anilist": "https://anilist.co/manga/176812?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/pigqnp8?utm_source=comick"
+      }
+    },
+    {
+      "id": "DQcxRep4",
+      "title": "My Disciples Are All Big Villains",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 16,
+      "last_read": "August 01, 2025",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "My Disciples Are All Villains",
+        "我的徒弟都是大反派",
+        "Wo De Tudi Dou Shi Da Fanpai",
+        "Wǒ De Túdì Dōu Shì Dà Fǎnpài",
+        "My Apprentices Are All Great Villains"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "mZF3uF35",
+      "title": "The Advanced Player of the Tutorial Tower",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 206,
+      "last_read": "August 31, 2024",
+      "reading_category": "Long Reader",
+      "synonyms": [
+        "Туториал продвинутого игрока в башне",
+        "Zaawansowany gracz wieży samouczka",
+        "튜토리얼 탑의 고인물",
+        "Tutorial Tabui Goinmul",
+        "L'expert de la Tour Tutoriel"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/146742?utm_source=comick",
+        "anilist": "https://anilist.co/manga/119276?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=166529&utm_source=comick"
+      }
+    },
+    {
+      "id": "yDm32aOJ",
+      "title": "The Beginning After the End",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 182,
+      "last_read": "August 31, 2024",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "O começo após o final",
+        "O começo depois do fim",
+        "TBATE",
+        "三岁开始做王者",
+        "最強の王様、二度目の人生は何をする？"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": "https://www.mangaupdates.com/series/rwg23en?utm_source=comick"
+      }
+    },
+    {
+      "id": "_x731rN2",
+      "title": "Lord Hero of House Remes",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 1,
+      "last_read": "November 28, 2024",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "Duke's Eldest Son Is a Regressed Hero",
+        "El hijo mayor del duque es un héroe regresor",
+        "Hero Becomes Duke's Eldest Son",
+        "Hero Becomes the Eldest Son of a Duke",
+        "Um Herói no Ducado"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/173472?utm_source=comick",
+        "anilist": "https://anilist.co/manga/179431?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/66518zu?utm_source=comick"
+      }
+    },
+    {
+      "id": "n7acu4Ir",
+      "title": "How to Fight",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 28,
+      "last_read": "September 23, 2024",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "Ssaumdokak",
+        "格鬥實況",
+        "싸움독학",
+        "Comment se Battre",
+        "Viral Hit!"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/139164?utm_source=comick",
+        "anilist": "https://anilist.co/manga/121991?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=167008&utm_source=comick"
+      }
+    },
+    {
+      "id": "EOJkw0Mk",
+      "title": "How to Use a Returner",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 50,
+      "last_read": "September 22, 2024",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "회귀자 사용설명서",
+        "Инструкция по перерождению",
+        "Hoegwija Sayongseolmyeongseo",
+        "Sayongseolmyeongseo",
+        "Hoegwija"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147318?utm_source=comick",
+        "anilist": "https://anilist.co/manga/141007?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=190936&utm_source=comick"
+      }
+    },
+    {
+      "id": "fVr6ofKT",
+      "title": "Gosu",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 3,
+      "last_read": "August 18, 2024",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "고수",
+        "استاد",
+        "خبره",
+        "گوسو",
+        "مستر"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147530?utm_source=comick",
+        "anilist": "https://anilist.co/manga/86640?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=127968&utm_source=comick"
+      }
+    },
+    {
+      "id": "531DmNZI",
+      "title": "Hunter Academy’s Strongest Battle God",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 40,
+      "last_read": "October 15, 2024",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "헌터 아카데미의 최강투신",
+        "Hunter Academy's Strongest Battle God",
+        "Hunter Academy's Greatest War God",
+        "Непобедимый бог академии охотников",
+        "El Dios de la Batalla de la Academia de Cazadores"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/173255?utm_source=comick",
+        "anilist": "https://anilist.co/manga/177058?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/d66o7lp?utm_source=comick"
+      }
+    },
+    {
+      "id": "SE3Re4TL",
+      "title": "A Dance of Swords in the Night",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 125,
+      "last_read": "August 15, 2024",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "칼에 취한 밤을 걷다",
+        "In the Night Consumed by Blades",
+        "I Walk",
+        "Kare Chwihan Bameul Geotda",
+        "Sword Fanatic Wanders Through the Night"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/148457?utm_source=comick",
+        "anilist": "https://anilist.co/manga/150823?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/g4xtsfy?utm_source=comick"
+      }
+    },
+    {
+      "id": "c1xUXpEj",
+      "title": "The Dragon's Guide to Defying Death",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 49,
+      "last_read": "November 13, 2024",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "시한부 드래곤의 생존법",
+        "Survival Guide for a terminally-ill Dragon",
+        "How to Survive as a Dragon with Time-Limit",
+        "How to Survive as a Terminally-Ill Dragon",
+        "Phương Pháp Sinh Tồn Của Rồng Sắp Ngủm"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/169517?utm_source=comick",
+        "anilist": "https://anilist.co/manga/181994?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/5kkrgj8?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIESrPW",
+      "title": "Eternally Regressing Knight",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 31,
+      "last_read": "November 13, 2024",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "Oneulman Saneun Gisa",
+        "The Knight Only Lives Today",
+        "A Knight Who Eternally Regresses",
+        "Der Ritter lebt nur heute",
+        "O cavaleiro em eterna regressão"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/170427?utm_source=comick",
+        "anilist": "https://anilist.co/manga/177706?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/gcls85m?utm_source=comick"
+      }
+    },
+    {
+      "id": "V_8hhTSD",
+      "title": "I Raided the Demon God's Treasure Trove",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 32,
+      "last_read": "November 10, 2024",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "I Robbed the Storehouse of the God",
+        "I Raided the Demon God's Treasure Trove",
+        "마신의 창고를 털었습니다",
+        "I Raided the God's Warehouse"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/180948?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/el5tmzg?utm_source=comick"
+      }
+    },
+    {
+      "id": "T6rtctyA",
+      "title": "My Daughter Is the Final Boss",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 141,
+      "last_read": "November 10, 2024",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "我的女兒是最終頭目",
+        "灭世女神今年5岁",
+        "내 딸은 최종 보스",
+        "Моя дочь — Финальный Босс",
+        "Nae Ddar'eun Cheojong Boss"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/150203?utm_source=comick",
+        "anilist": "https://anilist.co/manga/147636?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=199625&utm_source=comick"
+      }
+    },
+    {
+      "id": "E08Un0l6",
+      "title": "Tyrant of the Tower Defense Game",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 120,
+      "last_read": "October 08, 2024",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "디펜스 게임의 폭군이 되었다",
+        "Me convertí en el tirano de un juego de defensa",
+        "Defense Game Pokguni Doeeotda",
+        "成为塔防游戏里的暴君",
+        "ผู้พิชิตเกมป้องกันฐาน"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/153518?utm_source=comick",
+        "anilist": "https://anilist.co/manga/153513?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/i5sjf4k?utm_source=comick"
+      }
+    },
+    {
+      "id": "wPdBYO_o",
+      "title": "QUESTISM",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 153,
+      "last_read": "September 07, 2024",
+      "reading_category": "Well Advanced",
+      "synonyms": [
+        "퀘스트지상주의",
+        "Квестовое превосходство",
+        "Quest Jisangjuui",
+        "Quest Supremacy",
+        "Supremacía de las Misiones"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/148666?utm_source=comick",
+        "anilist": "https://anilist.co/manga/140837?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=190796&utm_source=comick"
+      }
+    },
+    {
+      "id": "NJcI16EN",
+      "title": "Playing Revenge Against God",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 27,
+      "last_read": "November 06, 2024",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "31번째 말은 게임판을 뒤엎는다",
+        "31 Beonjjae Mareun Geimpaneul Dwieopneunda",
+        "31-я фигура перевернёт игровую доску",
+        "The 31st Piece Turns the Tables",
+        "The 31st Piece Overturns the Board"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/160655?utm_source=comick",
+        "anilist": "https://anilist.co/manga/60017?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/8rzvmia?utm_source=comick"
+      }
+    },
+    {
+      "id": "nLsPVSdO",
+      "title": "Existence",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 72,
+      "last_read": "November 02, 2024",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "존재",
+        "Jonjae",
+        "Existencia",
+        "La Existencia",
+        "Reason to Live (Kwangjin)"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/150840?utm_source=comick",
+        "anilist": "https://anilist.co/manga/153987?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/xilnncr?utm_source=comick"
+      }
+    },
+    {
+      "id": "MIdqldxR",
+      "title": "Return of the King of Hell",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 7,
+      "last_read": "October 02, 2024",
+      "reading_category": "Early Chapters",
+      "synonyms": [
+        "The Descent Of The Underworld God",
+        "Reincarnation Path of The Underworld King",
+        "ยมราชลงทัณฑ์",
+        "염라강림",
+        "Yeomna Advent"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/170110?utm_source=comick",
+        "anilist": "https://anilist.co/manga/171723?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/bccpxzp?utm_source=comick"
+      }
+    },
+    {
+      "id": "cZFcoGh_",
+      "title": "I'm Stuck on the Same Day for a Thousand Years",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 58,
+      "last_read": "August 02, 2024",
+      "reading_category": "Mid Progress",
+      "synonyms": [
+        "I’m Trapped in This Day for One Thousand Years",
+        "Wǒ Bèi Kùn Zài Tóngyī Tiān Yīqiān Nián",
+        "我被困在同一天一千年",
+        "1000年間同じ日を繰り返した俺は無双する",
+        "Estuve Atrapado en Este Día Durante Mil Años"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/161520?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/lyqadle?utm_source=comick"
+      }
+    },
+    {
+      "id": "71gMd0vF",
+      "title": "Solo Leveling",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "我独自升级",
+        "我獨自升級",
+        "Na Honjaman Lebel-eob",
+        "Ore Dake Level Up na Ken",
+        "나 혼자만 레벨업"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/121496?utm_source=comick",
+        "anilist": "https://anilist.co/manga/105398?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=151349&utm_source=comick"
+      }
+    },
+    {
+      "id": "LLZxqU1v",
+      "title": "The Overpowered Newbie",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "뉴비가 너무 강함",
+        "Слишком сильный нуб",
+        "The Newbie is Too Strong",
+        "La Force du débutant",
+        "ビギナーなのに強すぎる！"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/148458?utm_source=comick",
+        "anilist": "https://anilist.co/manga/151457?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/3gyubpa?utm_source=comick"
+      }
+    },
+    {
+      "id": "xIrej8Kp",
+      "title": "Vagabond",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Avare",
+        "Lãng Khách",
+        "Бродяга",
+        "المتشرد",
+        "วากาบอนด์"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/656?utm_source=comick",
+        "anilist": "https://anilist.co/manga/30656?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=387&utm_source=comick"
+      }
+    },
+    {
+      "id": "g_Jpt1ML",
+      "title": "Dark and Light Martial Emperor",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Monochrome Sovereign",
+        "黑白武帝",
+        "흑백무제",
+        "Black and White Martial Emperor",
+        "Black and White Martial Emperor / íë°±ë¬´ì "
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/168969?utm_source=comick",
+        "anilist": "https://anilist.co/manga/172932?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/dto0zyp?utm_source=comick"
+      }
+    },
+    {
+      "id": "Q1L985_t",
+      "title": "Idle Player Returns as a God",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Counterattack From a Failed Job",
+        "Desperté como un Dios después de batallar en solitario durante un millón de años",
+        "El jugador inactivo regresa como un dios",
+        "I Awoke as a God After Auto Battling for a Million Years",
+        "Online Game: I Stayed Idle For A Million Years"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/180705?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/bd6c779?utm_source=comick"
+      }
+    },
+    {
+      "id": "fWnYoxG7",
+      "title": "The Dark Mage’s Return to Enlistment",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "귀환했는데 입대 전날이다",
+        "Returned to the Day I Joined the Army",
+        "I Returned",
+        "But It Was the Day Before My Enlistment",
+        "O Retorno do Mago Negro ao Alistamento"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/157232?utm_source=comick",
+        "anilist": "https://anilist.co/manga/164122?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/02oic5g?utm_source=comick"
+      }
+    },
+    {
+      "id": "R6AB5tN_",
+      "title": "The Maxed-Out Player",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Jugador de nivel máximo",
+        "만렙 플레이어",
+        "Max Talent Player",
+        "The Maxed-out Player",
+        "Counter Stop Player"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/157258?utm_source=comick",
+        "anilist": "https://anilist.co/manga/166159?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/chc1vt4?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIF08KP",
+      "title": "Children of the Rune",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "룬의 아이들 - 윈터러",
+        "Lun-ui Aideul - Winteoleo",
+        "Children of the Rune: Winterer",
+        "Winterer",
+        "สงครามดาบอักขระเวท ภาคดาบเหมันต์"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/171794?utm_source=comick",
+        "anilist": "https://anilist.co/manga/181992?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/ib8cqvg?utm_source=comick"
+      }
+    },
+    {
+      "id": "jdUERzlE",
+      "title": "Seoul Station Necromancer",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "地铁站的亡灵巫师",
+        "Seoul Station's Necromancer",
+        "Seoul-yeog Necromancer",
+        "ソウル駅のネクロマンサー",
+        "เนโครแมนเซอร์แห่งสถานีโซล"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147490?utm_source=comick",
+        "anilist": "https://anilist.co/manga/140896?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=190245&utm_source=comick"
+      }
+    },
+    {
+      "id": "bpxuXlYk",
+      "title": "Return of the War God",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Crónicas del regreso del dios marcial",
+        "Record of the Heavenly Demon's Comeback",
+        "Chronicles of the Martial God",
+        "Le retour du dieu martial",
+        "Crônicas do retorno do deus marcial"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/153399?utm_source=comick",
+        "anilist": "https://anilist.co/manga/150319?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/dmnckia?utm_source=comick"
+      }
+    },
+    {
+      "id": "HUIcQdn4",
+      "title": "The Hero Returns",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Hero",
+        "Returns",
+        "영웅",
+        "회귀하다",
+        "Герой возвращается"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/150455?utm_source=comick",
+        "anilist": "https://anilist.co/manga/146017?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=197285&utm_source=comick"
+      }
+    },
+    {
+      "id": "RNMe7nKU",
+      "title": "Villain to Kill",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "빌런투킬퓨핀",
+        "反派绝杀",
+        "빌런투킬",
+        "Villano para matar",
+        "Tiêu Diệt Ác Nhân"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/147191?utm_source=comick",
+        "anilist": "https://anilist.co/manga/130149?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/uikn3xv?utm_source=comick"
+      }
+    },
+    {
+      "id": "7j6YU2d0",
+      "title": "Ranker's Return",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Ranker's Return (2021)",
+        "ランカーの帰還",
+        "Возвращение ранкера",
+        "榜上玩家的归还",
+        "랭커의 귀환 (2021)"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/137969?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=186006&utm_source=comick"
+      }
+    },
+    {
+      "id": "Obe3d6p7",
+      "title": "Cleric of Decay",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Bupaeui Saje",
+        "El Hijo de la Corrupción",
+        "悪神に仕える司祭になった",
+        "腐敗司祭",
+        "腐朽的祭司"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/159904?utm_source=comick",
+        "anilist": "https://anilist.co/manga/167165?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/a9ye3t1?utm_source=comick"
+      }
+    },
+    {
+      "id": "RAkdZxvw",
+      "title": "I'm a Part-Timer for the Gods",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "신들의 알바나라",
+        "The Part-Time Land of the Gods",
+        "Albanala of the Gods",
+        "Albanian of the Gods",
+        "Became A Part Time Employee For Gods"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/157616?utm_source=comick",
+        "anilist": "https://anilist.co/manga/161500?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/3rm5dq8?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIEfVez",
+      "title": "Martial Evolution: Start by Awakening the King of Monsters",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Cao Võ Tiến Hóa: Bắt Đầu Thức Tỉnh Quái Thú Chi Vương",
+        "Martial Evolution: Starting from Awakening Godzilla's Physique",
+        "高武进化：从觉醒怪兽之王开始",
+        "Evolución de Alto Nivel: Comenzando como el Rey de los Monstruos",
+        "Martial Evolution: Starting from Awakening Godzilla's Physique / é«æ­¦è¿åï¼ä»è§éæªå½ä¹çå¼å§"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "FRpxlMwo",
+      "title": "World's Strongest Troll",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Game Choegang Troller",
+        "Quỷ Troll Mạnh Nhất Thế Giới",
+        "The Unrivaled Troll",
+        "The World's Strongest Troll",
+        "最強ゲーマーはトロールしたい"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/153853?utm_source=comick",
+        "anilist": "https://anilist.co/manga/159121?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/3aicwol?utm_source=comick"
+      }
+    },
+    {
+      "id": "tg69C49O",
+      "title": "My Inventory Is Abnormal",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "My Inventory Is Abnormal",
+        "俺のインベントリがおかしい",
+        "내 인벤토리가 이상하다",
+        "Something's Wrong With My Inventory",
+        "Unknown"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/179556?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/tk2xzur?utm_source=comick"
+      }
+    },
+    {
+      "id": "mjFPuBIu",
+      "title": "Limit-Breaking Genius Mage",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "The Genius Wizard Who Breaks Limits",
+        "A Genius Wizard Who Breaks Boundaries",
+        "한계 찢는 천재마법사",
+        "ไม่มีลิมิต ชีวิตจอมเวท",
+        "A Genius Wizard Who Breaks Boundaries / 한계 찢는 천재마법사"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/193513?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/0m9cegg?utm_source=comick"
+      }
+    },
+    {
+      "id": "HIENuWv",
+      "title": "The Third Prince of the Fallen Kingdom has Regressed",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "멸망한 왕국의 3왕자가 회귀했다",
+        "myeolmanghan wang-gug-ui 3wangjaga hoegwihaessda",
+        "Возвращение третьего принца падшего королевства",
+        "დაცემული სამეფოს მესამე პრინცის დაბრუნება",
+        "The Third Prince of the Fallen Kingdom Has Regressed"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "7GH57L5x",
+      "title": "Special Civil Servant!",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Specjalny Urzędnik Państwowy",
+        "Extraordinary Civil Servant",
+        "ข้าราชการพิเศษ",
+        "特殊公務員は今日も命がけです",
+        "特聘公務員"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "12XG_k3V",
+      "title": "I Was Immediately Mistaken for a Monster Genius Actor",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "I Was Mistaken as a Monstrous Genius Actor",
+        "Tôi Bị Hiểu Lầm Là Diễn Viên Thiên Tài Quái Vật",
+        "誤打誤撞成為怪物天才演員",
+        "대뜸 착각당했다 괴물 천재배우로",
+        "Eu fui confundido como um ator gênio monstro"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "EscVbP1e",
+      "title": "The Concept-Grasping Magical Genius",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "The Genius of Magical Mastery",
+        "개념 잡는 마법 천재"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "hpYRR9no",
+      "title": "I Will Raise This Family to Greatness",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "I Will Raise This Family Up",
+        "I Will Raise This Family!",
+        "이 집안을 일으켜세우겠습니다!",
+        "The Baby Who Will Build an Empire"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/180009?utm_source=comick",
+        "anilist": "https://anilist.co/manga/188621?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/elabqqm?utm_source=comick"
+      }
+    },
+    {
+      "id": "8pwPhuG_",
+      "title": "A Cadet Becomes a Prophet?!",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "RRnUTCWf",
+      "title": "Strength Through Adversity, My Cultivation Knows No Limits",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Possessing Me: The Untouchable Outsider",
+        "遇强则强",
+        "Yù Qiáng Zé Qiáng",
+        "Wǒ De Xiū Wéi Wú Shàng Xiàn",
+        "Limitless Ascension: Strength Amid Adversity"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "HIEmvys",
+      "title": "Full-Time Awakening",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "全职觉醒",
+        "Full-Time Awakening",
+        "Quanzhi Juexing"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/197224?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/aom2lfb?utm_source=comick"
+      }
+    },
+    {
+      "id": "h841H3sQ",
+      "title": "Eat Before You Go",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "밥먹고가라",
+        "The Demon Slayer's Restaurant",
+        "Eat and Go"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/192888?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/3c802lc?utm_source=comick"
+      }
+    },
+    {
+      "id": "SIAAnO__",
+      "title": "Reverend Insanity [2025]",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Преподобный Гу",
+        "蛊真人 (2025)",
+        "เทพปีศาจหวนคืน",
+        "القس المجنون",
+        "Cổ Chân Nhân (2025)"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "kaaCgLlD",
+      "title": "Dwitgolmok Mabeopsa-ui Hoegwi Saenghwal",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "뒷골목 마법사의 회귀생활",
+        "The Back-Alley Mage’s Return"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/196875?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/8xehze6?utm_source=comick"
+      }
+    },
+    {
+      "id": "HHGhP7Z",
+      "title": "Level 999 Goblin",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "레벨999 고블린",
+        "ก็อบลินเลเวล 999",
+        "Lv999哥布林",
+        "ë ë²¨999 ê³ ë¸ë¦°"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/192813?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/nfyob5y?utm_source=comick"
+      }
+    },
+    {
+      "id": "HXTArZJ",
+      "title": "Chronicle of Runes",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "문양전",
+        "Chronicle of Runes",
+        "Emblem Battle",
+        "The Rune Wars",
+        "Mun Yang Jeon"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/197417?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/n6xn0fq?utm_source=comick"
+      }
+    },
+    {
+      "id": "yho6piZ9",
+      "title": "Reborn Rich",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "ხელახლა დაბადებული მდიდარი",
+        "ჩაბეოლის უმცროსი ვაჟი",
+        "The Youngest Son of a Conglomerate",
+        "The Youngest Son of Sunyang",
+        "재벌집 막내아들"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/154318?utm_source=comick",
+        "anilist": "https://anilist.co/manga/158766?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/4v8x87y?utm_source=comick"
+      }
+    },
+    {
+      "id": "UjNMubYz",
+      "title": "God-level Assassin, I’m the Shadow",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "网游：神级刺客，我即是暗影"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": "https://anilist.co/manga/189647?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/ojm6lln?utm_source=comick"
+      }
+    },
+    {
+      "id": "LkI8DghT",
+      "title": "Returning With Absolutely Nothing",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Regresion inutil",
+        "쥐뿔도 없는 회귀",
+        "Worthless Regression",
+        "Владея Ничем",
+        "Jwippuldo Eobsneun Hoegwi"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/152612?utm_source=comick",
+        "anilist": "https://anilist.co/manga/147027?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series.html?id=198658&utm_source=comick"
+      }
+    },
+    {
+      "id": "jmndN6ti",
+      "title": "Becoming a God, Starting as water monkey",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Возвышение от Монстра до Бога",
+        "Ascension: From Water Spirit to Deity",
+        "Become a God From Water Monkey",
+        "Becoming a God",
+        "Starting as Water Monkey"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "IVuZuu94",
+      "title": "Emperor of Steel",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "강철대제"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "pRO79Lcy",
+      "title": "The Knight King Who Returned with a God",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "신과함께 돌아온 기사왕님",
+        "The Knight King Who Returned With a God",
+        "El Rey Caballero que regresó con un Dios",
+        "與神同歸的騎士王",
+        "与神同归的骑士王"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/159140?utm_source=comick",
+        "anilist": "https://anilist.co/manga/165287?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/sdog92t?utm_source=comick"
+      }
+    },
+    {
+      "id": "wATDywpu",
+      "title": "Infinite Evolution Starting from Zero",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "从零开始无限进化"
+      ],
+      "external_links": {
+        "mal": null,
+        "anilist": null,
+        "mangaupdates": null
+      }
+    },
+    {
+      "id": "HIEVbtp",
+      "title": "Admission is a Waste of Time",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "입학은 괜히 해 가지고",
+        "Why Did I Have to Enroll?",
+        "I shouldn't have enrolled"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/176056?utm_source=comick",
+        "anilist": "https://anilist.co/manga/186020?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/5kng3cb?utm_source=comick"
+      }
+    },
+    {
+      "id": "Vf8oINR2",
+      "title": "Genius Archer’s Livestreaming",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "천재 궁수의 스트리밍",
+        "Genius Archer's Streaming",
+        "Stream Của Cung Thủ Thiên Tài",
+        "สตรีมมิงยอดนักธนูอัจฉริยะ",
+        "天才弓箭手的直播"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/169874?utm_source=comick",
+        "anilist": "https://anilist.co/manga/180166?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/qwlro65?utm_source=comick"
+      }
+    },
+    {
+      "id": "Bh6_eJnk",
+      "title": "I Am Not a Regressor",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "나는 회귀자가 아닙니다",
+        "No soy un regresor",
+        "Naneun Hoegwijaga Anipnida",
+        "I'm Not a Regressor",
+        "俺は回帰者じゃないけれど"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/165030?utm_source=comick",
+        "anilist": "https://anilist.co/manga/171719?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/f3cn8ah?utm_source=comick"
+      }
+    },
+    {
+      "id": "f28FW4OR",
+      "title": "Necromancer Academy and the Genius Summoner",
+      "type": "reading",
+      "rating": null,
+      "chapters_read": 0,
+      "last_read": "Not specified",
+      "reading_category": "Just Started",
+      "synonyms": [
+        "Necromancer Academy's Genius Summoner",
+        "네크로맨서 학교의 소환천재",
+        "Necromancer Hakgyoui Sohwancheonjae",
+        "死靈術師學院的召喚天才",
+        "ยอดอัจฉริยะแห่งโรงเรียนเนโครแมนเซอร์"
+      ],
+      "external_links": {
+        "mal": "https://myanimelist.net/manga/164754?utm_source=comick",
+        "anilist": "https://anilist.co/manga/171818?utm_source=comick",
+        "mangaupdates": "https://www.mangaupdates.com/series/o38jhwh?utm_source=comick"
+      }
+    }
+  ]
+}
