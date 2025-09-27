@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📚 My Manga Reading Collection</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-book-open"></i>
+                    <h1>My Manga Collection</h1>
+                </div>
+                <div class="header-stats">
+                    <div class="stat-item">
+                        <span class="stat-number">{{ statistics.total_manga }}</span>
+                        <span class="stat-label">Total Manga</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">{{ "{:,}".format(statistics.total_chapters_read) }}</span>
+                        <span class="stat-label">Chapters Read</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            <!-- Statistics Dashboard -->
+            <section class="dashboard">
+                <div class="dashboard-grid">
+                    <div class="dashboard-card">
+                        <div class="card-icon">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>Reading Progress</h3>
+                            <div class="progress-stats">
+                                <div class="progress-item">
+                                    <span class="progress-label">Average per Manga</span>
+                                    <span class="progress-value">{{ statistics.average_chapters_per_manga }} chapters</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="dashboard-card">
+                        <div class="card-icon">
+                            <i class="fas fa-link"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>External Links</h3>
+                            <div class="links-stats">
+                                <div class="link-item">
+                                    <i class="fas fa-star"></i>
+                                    <span>MAL: {{ statistics.external_links.mal_count }}</span>
+                                </div>
+                                <div class="link-item">
+                                    <i class="fas fa-heart"></i>
+                                    <span>AniList: {{ statistics.external_links.anilist_count }}</span>
+                                </div>
+                                <div class="link-item">
+                                    <i class="fas fa-database"></i>
+                                    <span>MU: {{ statistics.external_links.mangaupdates_count }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="dashboard-card">
+                        <div class="card-icon">
+                            <i class="fas fa-trophy"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>Top Read</h3>
+                            <div class="top-manga">
+                                {% for manga in statistics.most_read_manga[:3] %}
+                                <div class="top-item">
+                                    <span class="manga-title">{{ manga.title[:30] }}{% if manga.title|length > 30 %}...{% endif %}</span>
+                                    <span class="chapter-count">{{ manga.chapters_read }} ch</span>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Filters and Search -->
+            <section class="filters">
+                <div class="filters-container">
+                    <div class="search-box">
+                        <i class="fas fa-search"></i>
+                        <input type="text" id="searchInput" placeholder="Search manga titles or synonyms...">
+                    </div>
+                    
+                    <div class="filter-controls">
+                        <select id="categoryFilter">
+                            <option value="all">All Categories</option>
+                            {% for category, count in statistics.reading_categories.items() %}
+                            <option value="{{ category }}">{{ category }} ({{ count }})</option>
+                            {% endfor %}
+                        </select>
+                        
+                        <select id="sortFilter">
+                            <option value="last_read">Last Read</option>
+                            <option value="title">Title A-Z</option>
+                            <option value="chapters">Most Chapters</option>
+                        </select>
+                        
+                        <div class="view-toggle">
+                            <button id="gridView" class="view-btn active">
+                                <i class="fas fa-th"></i>
+                            </button>
+                            <button id="listView" class="view-btn">
+                                <i class="fas fa-list"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Manga Collection -->
+            <section class="collection">
+                <div class="collection-header">
+                    <h2>My Reading Collection</h2>
+                    <div class="collection-info">
+                        <span id="resultCount">Loading...</span>
+                        <div class="loading-spinner" id="loadingSpinner">
+                            <i class="fas fa-spinner fa-spin"></i>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="manga-grid" id="mangaGrid">
+                    <!-- Manga cards will be loaded here -->
+                </div>
+                
+                <div class="pagination" id="pagination">
+                    <!-- Pagination will be loaded here -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2024 My Manga Collection. Data exported on {{ metadata.export_date[:10] }}</p>
+                <div class="footer-links">
+                    <a href="#" onclick="showAbout()">About</a>
+                    <a href="#" onclick="exportData()">Export Data</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Modal for Manga Details -->
+    <div class="modal" id="mangaModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitle"></h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- Manga details will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
